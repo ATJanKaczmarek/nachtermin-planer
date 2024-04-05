@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Nachtermin-Planer.app/Contents/MacOS/Nachtermin-Planer">
+      <BCSymbolMapName>Nachtermin-Planer.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Nachtermin-Planer.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/jankaczmarek/Coding/GitHub/nachtermin-planer/Nachtermin-Planer/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Nachtermin-Planer.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/jankaczmarek/Coding/GitHub/nachtermin-planer/Nachtermin-Planer</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

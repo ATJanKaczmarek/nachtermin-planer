@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/jankaczmarek/Coding/GitHub/nachtermin-planer/Nachtermin-Planer/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/jankaczmarek/Coding/GitHub/nachtermin-planer/Nachtermin-Planer/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Nachtermin-Planer.app

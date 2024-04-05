@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nachtermin-Planer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6bc11aaed6d972912520337e46770329c5d2b0d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+994d0794771270574c9f0190e6f0e8fb7f00d86e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nachtermin-Planer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nachtermin-Planer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

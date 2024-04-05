@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/jankaczmarek/Coding/GitHub/nachtermin-planer/Nachtermin-Planer/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Nachtermin-Planer.app/Contents/MonoBundle/libe_sqlite3.dylib
